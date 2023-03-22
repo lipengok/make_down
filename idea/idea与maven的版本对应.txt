@@ -1,0 +1,3 @@
+https://www.cnblogs.com/lhongsen/p/16555746.html
+
+注意：maven的默认安装路径：C:\Users\TY\.m2\settings.xml
