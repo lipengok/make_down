@@ -1,0 +1,4 @@
+参考：https://blog.csdn.net/qq_36506409/article/details/124046553
+netstat -nao | findstr 8080
+tasklist | findstr 4708
+taskkill /f /t /im 进程名
